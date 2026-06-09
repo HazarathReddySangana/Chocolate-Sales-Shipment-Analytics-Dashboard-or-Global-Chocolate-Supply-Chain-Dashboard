@@ -24,9 +24,19 @@ Added:
 Line Charts
 Bar Charts
 Pie Charts
+
+
+
+
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/c9e37b49-7fd5-4a69-a8c9-f2326a336479" />
+
+<img width="1683" height="951" alt="Image" src="https://github.com/user-attachments/assets/d394da11-9732-4eb3-ba0a-4e56e0803d4c" />
+
+
 Cards
 Slicers
 Tables
-7. Testing
+8. Testing
 Validated calculations with source data.
 Checked filter interactions and report accuracy.
